@@ -10,3 +10,6 @@ run "mvn clean install" to install this archetype to maven repository.
 1. open maven project create wizzard,go to 2 step and click "Add Archetype.." button to add this archetype
 2. change catelog to "Default local" and select webapp3
 3. click "next" button , config groupId and artifact id,then click "finish" button.
+
+just do it!
+
